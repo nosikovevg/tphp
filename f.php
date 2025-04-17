@@ -35,7 +35,7 @@ if(mysqli_query($connect, $sql)){
     echo "Ошибка: " . mysqli_error($connect);
 }
 echo "<br/>";
-echo "<a href='http://truruky.ru/'> вернуться на главную <a>";
+echo "<a href='http://truruki.ru/'> вернуться на главную <a>";
 mysqli_close($connect);
 ?>
 
