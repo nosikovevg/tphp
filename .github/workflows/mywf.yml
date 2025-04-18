@@ -2,7 +2,7 @@ name: M
 
 
 on:
-  workflow_dispatch
+  push
 
 
 env:
