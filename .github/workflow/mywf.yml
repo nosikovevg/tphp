@@ -6,7 +6,7 @@ on:
 
 
 env:
-  SERVER_HOST: '192.168.1.141'
+  SERVER_HOST: '85.28.47.165'
   SERVER_USER: root
   SERVER_PATH: /var/www/trur/
 
